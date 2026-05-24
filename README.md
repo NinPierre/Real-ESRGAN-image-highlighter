@@ -29,8 +29,34 @@ Exemplos oficiais do projeto Real-ESRGAN:
 
 ![Antes e depois - exemplo anime](https://raw.githubusercontent.com/xinntao/public-figures/master/Real-ESRGAN/cmp_realesrgan_anime_1.png)
 
-![Antes]{}
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Original (Antes)</b><br>
+        <img src="exemplos-fotos/84794405482372091.jpg" alt="ANTES exemplo 1" width="350px" />
+      </td>
+      <td align="center">
+        <b>Real-ESRGAN (Depois)</b><br>
+        <img src="exemplos-fotos/84794405482372091_HD.png" alt="DEPOIS exemplo 1" width="350px" />
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Original (Antes)</b><br>
+        <img src="exemplos-fotos/coding.jpg" alt="ANTES exemplo 1" width="350px" />
+      </td>
+      <td align="center">
+        <b>Real-ESRGAN (Depois)</b><br>
+        <img src="exemplos-fotos/coding_HD.png" alt="DEPOIS exemplo 1" width="350px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
